@@ -1,0 +1,8 @@
+{
+  "name": "@example/package1",
+  "packageManager": "yarn@4.5.3",
+  "main": "index.ts",
+  "dependencies": {
+    "@example/package3": "workspace:^"
+  }
+}
