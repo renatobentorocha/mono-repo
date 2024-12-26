@@ -3,6 +3,7 @@
   "packageManager": "yarn@4.5.3",
   "main": "index.ts",
   "dependencies": {
+    "@example/package2": "workspace:^",
     "@example/package3": "workspace:^"
   }
 }

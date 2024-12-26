@@ -1,4 +1,5 @@
 {
-  "name": "package2",
-  "packageManager": "yarn@4.5.3"
+  "name": "@example/package2",
+  "packageManager": "yarn@4.5.3",
+  "main": "index.ts"
 }
